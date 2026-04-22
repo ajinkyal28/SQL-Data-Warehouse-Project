@@ -69,10 +69,5 @@ data-warehouse-project/
 ---
 
 
-## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
-
-Hi there! I'm **Rushikesh Sanjay Lahane**. I’m an economics student and aspiring data analyst...
+Hi there! I'm **Ajinkya Bharat Lahane**. I’m an economics student and aspiring data analyst...
